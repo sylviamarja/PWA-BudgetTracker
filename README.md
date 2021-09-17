@@ -2,7 +2,7 @@
 ## Description
 A simple budget tracker progressive web application that works offline and can be downloaded to your desktop or mobile device.
 
-View the deployed page at 
+View the deployed page at github pages https://sylviamarja.github.io/PWA-BudgetTracker/ or https://whispering-stream-68035.herokuapp.com/ deployed to Heroku 
 
 ## Contents
 Usage
